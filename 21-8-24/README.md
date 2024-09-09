@@ -1,3 +1,5 @@
+# Session : 21-08-2024
+
 ## Question 1
 
 You are given an array consisting of `N` integers. Sort the array in non-decreasing order using the **Heap sort algorithm**, making use of `heapify()` and the `buildHeap()` functions.

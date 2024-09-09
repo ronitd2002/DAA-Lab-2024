@@ -1,3 +1,5 @@
+# Session : 04-09-2024
+
 ## Question 1
 
 Create a hash table using chaining and linear probing. h(k)= k mod 5.
