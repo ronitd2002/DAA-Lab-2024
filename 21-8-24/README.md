@@ -9,12 +9,12 @@ You are given an array consisting of `N` integers. Sort the array in non-decreas
 Given a string `S`, rearrange it's characters in such a way that no two adjacent characters are the same. If it's possible to achieve such a rearrangement, return it; otherwise, eturn an empty string. 
 
 Example 1: 
-* Input:
-* Output:
+* **Input:** `s` = "aaabb"
+* **Output:** "ababa"
 
 Example 2: 
-* Input:
-* Output:
+* **Input:** `S` = "aaab"
+* **Output:** ""
 
 Expected time complexity: O(Nlog(N))
 Expected aux space: O(1)
