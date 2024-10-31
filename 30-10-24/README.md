@@ -2,7 +2,7 @@
 
 ## Question 1
 
-Write a program for a general undirected / directed graph demonstrating the Dijkstra's shortest path algorithm for graphs with non-negative edge weights
+Write a program for a general undirected / directed graph demonstrating the **Dijkstra's shortest path algorithm** for graphs with non-negative edge weights
 
 ## Question 2
 
