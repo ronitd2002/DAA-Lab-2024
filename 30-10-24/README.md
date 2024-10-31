@@ -30,4 +30,4 @@ N = 4, M = 5
 (u,v,weight) = `[[1,2,80],[4,3,300],[3,1,20],[2,4,90],[2,3,60]]`
 Output: 80 \
 \
-Use prim's algorithm using adjacency matrix due to time complexity constraints.*
+*Use prim's algorithm using adjacency matrix due to time complexity constraints.*
