@@ -11,8 +11,7 @@ You are given an array prices where `prices[i]` is the price of a given stock on
 **NOTE**: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again). The transaction fee is only charged once for each stock purchase and sale.
 
 Example - 
-Input: prices = `[1,3,2,8,4,9]`,\ 
-Fee = 2 \
+Input: prices = `[1,3,2,8,4,9]`, Fee = 2 \
 Output: 8 \
 \
 Expected Time Complexity - O($n^2$) 
