@@ -11,9 +11,9 @@ You are given an array prices where `prices[i]` is the price of a given stock on
 **NOTE**: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again). The transaction fee is only charged once for each stock purchase and sale.
 
 Example - 
-Input: prices = `[1,3,2,8,4,9]`,\ 
+Input: prices = `[1,3,2,8,4,9]`, \ 
 Fee = 2 \
-Output: 8
+Output: 8 \
 \
 Expected Time Complexity - O($n^2$) 
 Auxiliary Space Complexity - O($n^2$)
@@ -28,7 +28,7 @@ You are to write a program to find the maximum speed at which Mary can reach her
 
 * Example:
 N = 4, M = 5
-(u,v,weight) = `[[1,2,80],[4,3,300],  [3,1,20],[2,4,90,[2,3,60]]`
+(u,v,weight) = `[[1,2,80],[4,3,300],[3,1,20],[2,4,90],[2,3,60]]`
 Output: 80 \
 \
-Use prim's algorithm using adjacency matrix due to time complexity constraints.
+Use prim's algorithm using adjacency matrix due to time complexity constraints.*
