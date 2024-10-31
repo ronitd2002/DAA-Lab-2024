@@ -14,7 +14,7 @@ Example -
 Input: prices = `[1,3,2,8,4,9]`, Fee = 2 \
 Output: 8 \
 \
-Expected Time Complexity - O($n^2$) 
+Expected Time Complexity - O($n^2$) \
 Auxiliary Space Complexity - O($n^2$)
 
 ## Question 3
