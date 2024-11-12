@@ -7,7 +7,7 @@ You are given the weights and values of N items, along with a knapsack of capaci
 You are given an mxn integer matrix with the following two properties:
 1. Each row is sorted in ascending order.
 2. The first integer of each row is greater than the last integer of the previous row.
-3. Given an integer target, return TRUE if the target exists in the matrix, otherwise return FALSE.
+3. Given an integer target, return `TRUE` if the target exists in the matrix, otherwise return `FALSE`.
 
 ## Question 3 :
 You are given a 0-indexed integer array `nums` and an integer `p`. Your task is to find `p` pairs of indices from `nums` such that the maximum difference among all the pairs is minimized. **Additionally, ensure that no index is used more than once in the p pairs**
