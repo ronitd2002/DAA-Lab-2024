@@ -23,8 +23,8 @@ Topics included:
 - Minimum Spanning Tree
 - Prim's algorithm
 - Shortest paths
-- Dijktsra
-- Bellman Ford
+- Dijkstra
+- Bellman-Ford
 - BFS
 - DFS
 - Floyd-Warshall.
