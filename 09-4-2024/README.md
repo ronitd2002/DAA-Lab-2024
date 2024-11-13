@@ -12,9 +12,9 @@ Note: If elements are repeated in the second array, consider their first occuran
 
 Example: Input: `arr1[]` = {2, 1, 2, 5, 7, 1, 9, 3, 6, 8, 8} `arr2[]` = {2, 1, 8, 3}
 
-Output: `arr1[]` = {2, 2, 1, 1, 8, 8, 3, 5, 6, 7, 9)
+Output: `arr1[]` = {2, 2, 1, 1, 8, 8, 3, 5, 6, 7, 9}
 
-Constraints: 1 <= n, m <= 10^6
+Constraints: $1 \leq n$, $m \leq 10^6$
 
 ## Question 3
 
